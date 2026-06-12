@@ -1,0 +1,10 @@
+../Core/Src/main.c:64:6:ADC_TempSensor_Init	4	static
+../Core/Src/main.c:91:6:reset_adc1_before_new_conversion	4	static
+../Core/Src/main.c:98:6:DMA_start	8	static
+../Core/Src/main.c:102:6:HAL_ADC_ConvCpltCallback	16	static
+../Core/Src/main.c:113:5:main	16	static
+../Core/Src/main.c:170:6:SystemClock_Config	88	static
+../Core/Src/main.c:217:13:MX_ADC1_Init	24	static
+../Core/Src/main.c:267:13:MX_DMA_Init	16	static
+../Core/Src/main.c:285:13:MX_GPIO_Init	56	static
+../Core/Src/main.c:432:6:Error_Handler	4	static,ignoring_inline_asm
